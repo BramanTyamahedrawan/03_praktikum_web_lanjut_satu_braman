@@ -16,7 +16,7 @@
             <div class="form-group">
                 <label for="message">Message:</label>
                 <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
-            </div>
+            </div><br>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
